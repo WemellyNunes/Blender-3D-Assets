@@ -21,7 +21,7 @@ Uma coleção com alguns objetos 3D criados no Blender, disponível para uso em 
   </a>
   <a>
     <img height="200vh" src="./images/arvores.png" alt="fogueira">
-    <p>3 estilos de arvore loly pop</p>
+    <p>3 estilos de arvore low poly</p>
   </a>
   <a>
     <img height="200vh" src="./images/ponte2render.png" alt="fogueira">
